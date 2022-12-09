@@ -8,19 +8,18 @@ Interfaz de usuario
 ----------
 ![Interfaz de usuario](/screenshot.png)
 
-Una juego de parejas escrito en Windows Forms-VB.Net para encontrar parejas de cartas barajadas aleatoriamente, que emplea un temporizador, una interfaz de usuario moderna de diseño plano y paneles de cartas generados de forma dinámica en tiempo de ejecución, utilizando un código bien estructurado y escalable.
+Una juego de parejas escrito en Windows Forms-VB.Net para encontrar parejas de cartas barajadas aleatoriamente, que emplea un temporizador, una interfaz de usuario de diseño plano y paneles de cartas generados de forma dinámica en tiempo de ejecución, utilizando un código bien estructurado y escalable.
 
 Características
 -------------------
-* The game provides two difficulty levels, Easy and Hard, connected with different card grid sizes (4x4 and 6x6) and different time limits (1 and 2 minutes).
-* The timer allows to display the time left on second intervals and determines the game over state when it runs out.
-* The grids of cards are dinamically generated at runtime, not at design time, allowing for a scalable and reusable code for different game configurations.
-* Cards are shuffled with a random function and compared to find matches during the game by tags, whereas game score points are counted on a powers-of-two basis as a tribute to the language of computers.
-* Correct card picks and mistakes are counted and stored in variables for several purposes.
-* Several visual cues are used on the UI to guide the user through game stages, such as a darker shade for disabled cards and a red font color for the timer when there are less than 20 seconds left.
-* A brief delay of 900 ms pauses the thread when two unpaired cards are picked before turning them upside-down so the user has time to memorize their position.
-* Custom different messages are displayed at the end of the game depending on the outcome.
-
+* El juego ofrece dos niveles de dificultad, Fácil y Difícil, asociados a tableros de cartas de diferente tamaño (4x4 y 6x6) y diferentes límites de tiempo (1 y 2 minutos).
+* El temporizador permite mostrar el tiempo que resta de juego actualizado cada segundo y determina el estado de fin de juego cuando el tiempo se acaba.
+* Los tableros de cartas se generan dinámicamente en tiempo de ejecución, no en la fase de diseño, proporcionando un código escalable y reutilizable para diversas configuraciones de juego.
+* Las cartas son barajadas mediante una función aleatoria y comparadas para determinar las parejas de iguales durante el juego mediante etiquetas o tags.
+* Los aciertos y fallos son contados y almacenados en variables para diferentes propósitos, mientras que la puntuación de una partida se calcula en potencias de 2 como homenaje al lenguaje de los ordenadores.
+* Se utilizan diversas pistas visuales en la interfaz para guiar a través de las fases del juego al usuario, tales como una versión más oscura del reverso de las cartas que están deshabilitadas y el color rojo del reloj cuando quedan 20 segundos o menos.
+* Una breve pausa de 900 milisegundos suspende el hilo de ejecución cuando se seleccionan dos cartas que no son pareja, antes de volverlas boca abajo de nuevo, para que el usuario tenga tiempo de memorizar su posición.
+* Al final de una partida se muestran al usuario mensajes diferentes dependiendo del resultado del juego.
 
 Reconocimiento
 -------------------
