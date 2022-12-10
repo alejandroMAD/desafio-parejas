@@ -25,7 +25,7 @@ Features
 Credits
 -------------------
 
-* Cards back photo: [Juan Carlos I Park labyrinth in Madrid, Spain by Victor - Unsplash](https://unsplash.com/es/fotos/_qXjdWm8YEo)
+* Cards back photo: [Juan Carlos I Park labyrinth in Madrid, Spain by Victor - Unsplash](https://unsplash.com/es/fotos/_qXjdWm8YEo){:target="\_blank"}
 * Programming and technology icons: [Icons by IconMafia and IconScout](https://iconscout.com/contributors/icon-mafia) 
 * Victory bear picture: [Image by catalyststuff - Freepik](https://www.freepik.es/vector-gratis/lindo-oso-corriendo-maraton-dibujos-animados-vector-icono-ilustracion-concepto-icono-deporte-animal-plano-aislado_32432390.htm)
 * Defeat snail picture: [Image by brgfx - Freepik](https://www.freepik.es/vector-gratis/reloj-plantilla-caracol_3840486.htm)
