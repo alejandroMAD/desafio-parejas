@@ -8,7 +8,7 @@ User interface
 ----------
 ![User interface](/screenshot.png)
 
-A VB.Net Windows Forms memory matching game to find pairs among shuffled cards, using a Timer, a custom flat UI design and dynamic runtime-generated grids of cards, in structured scalable code.
+A VB.Net Windows Forms memory matching game to find pairs among shuffled cards, using a Timer, a custom flat UI design and dynamic runtime-generated grids of cards in structured scalable code.
 
 Features
 -------------------
