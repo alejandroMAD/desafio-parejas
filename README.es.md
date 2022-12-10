@@ -8,7 +8,7 @@ Interfaz de usuario
 ----------
 ![Interfaz de usuario](/screenshot.png)
 
-Una juego de parejas escrito en Windows Forms-VB.Net para encontrar parejas de cartas barajadas aleatoriamente, que emplea un temporizador, una interfaz de usuario de diseño plano y paneles de cartas generados de forma dinámica en tiempo de ejecución, utilizando un código bien estructurado y escalable.
+Un juego de parejas escrito en Windows Forms-VB.Net para encontrar pares de cartas iguales en una colección barajada aleatoriamente, que emplea un temporizador, una interfaz de usuario de diseño plano y paneles de cartas generados de forma dinámica en tiempo de ejecución, utilizando un código bien estructurado y escalable.
 
 Características
 -------------------
